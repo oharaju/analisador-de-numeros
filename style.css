@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(220, 175, 221);
+  font:normal 15px Arial;
+}
+
+header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+section {
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(131, 79, 79, 0.116);
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+
+.numerosDigitados{
+  width: 30%;
+}
