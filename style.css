@@ -25,3 +25,8 @@ button {
 .numerosDigitados{
   width: 30%;
 }
+
+select {
+  width: 150px;
+  margin-bottom: 10px;
+}
